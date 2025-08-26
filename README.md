@@ -1,5 +1,11 @@
 # SauceDemoTest
 
+![Java](https://img.shields.io/badge/Java-17-brightgreen)
+![Maven](https://img.shields.io/badge/Maven-3.9.0-blue)
+![Build](https://img.shields.io/badge/Build-passing-brightgreen)
+![Allure](https://img.shields.io/badge/Allure-Report-orange)
+
+
 Automated UI tests for the Sauce Demo web application using **Playwright**, **JUnit 5**, and **Allure Reports**.
 
 ---
